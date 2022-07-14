@@ -2,11 +2,11 @@
 
 # Device
 export TWRP_BRANCH="twrp-12.1"
-export DT_LINK="https://github.com/Pranav-Talmale/android_device_xiaomi_raphael-twrp.git -b twrp-12.1-FBEv2"
+export DT_LINK="https://github.com/OrangeFoxRecovery/device_xiaomi_mojito.git -b twrp-12.1-FBEv2"
 
-export DEVICE="raphael"
+export DEVICE="mojito"
 export OEM="xiaomi"
-export TARGET="recoveryimage"
+export TARGET="bootimage"
 
 export OUTPUT="output.zip"
 
