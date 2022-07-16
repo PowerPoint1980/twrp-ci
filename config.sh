@@ -2,7 +2,7 @@
 
 # Device
 export TWRP_BRANCH="twrp-12.1"
-export DT_LINK="https://github.com/OrangeFoxRecovery/device_xiaomi_mojito.git -b twrp-12.1-FBEv2"
+export DT_LINK="https://github.com/OrangeFoxRecovery/device_xiaomi_mojito.git"
 
 export DEVICE="mojito"
 export OEM="xiaomi"
