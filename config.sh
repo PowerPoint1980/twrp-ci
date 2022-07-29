@@ -2,9 +2,9 @@
 
 # Device
 export TWRP_BRANCH="twrp-12.1"
-export DT_LINK="https://github.com/OrangeFoxRecovery/device_xiaomi_mojito.git"
+export DT_LINK="https://github.com/nebrassy/device_xiaomi_alioth-TWRP/tree/android-12.1"
 
-export DEVICE="mojito"
+export DEVICE="alioth"
 export OEM="xiaomi"
 export TARGET="bootimage"
 
