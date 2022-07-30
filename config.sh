@@ -2,7 +2,7 @@
 
 # Device
 export TWRP_BRANCH="twrp-12.1"
-export DT_LINK="https://github.com/nebrassy/device_xiaomi_alioth-TWRP/tree/android-12.1"
+export DT_LINK="https://github.com/TeamWin/android_device_xiaomi_alioth"
 
 export DEVICE="alioth"
 export OEM="xiaomi"
